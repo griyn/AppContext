@@ -23,6 +23,7 @@ APPCONTEXT_REGISTER_WITH_NAME(Archer, Person, Archer); // Register in factory wi
 ```
 
 ## Get
+获得
 ```c++
 auto p = garden::AppContext::instance().get<Person>("Person");
 p->call();
