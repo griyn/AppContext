@@ -1,5 +1,5 @@
 # Reflect Factory
-Find instance for name.
+Create instance from name.
 反射工厂，通过字符串名字创建对应对象。
 
 ## Register
